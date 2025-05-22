@@ -5,6 +5,8 @@ This Terraform project automates the provisioning of AWS infrastructure componen
 1. An S3 bucket with a unique name for storing Terraform state files
 2. A DynamoDB table for state locking to prevent concurrent operations
 
+![img](./s3.png)
+
 ## Infrastructure Components
 
 ### S3 Bucket
